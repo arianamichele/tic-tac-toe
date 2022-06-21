@@ -67,3 +67,7 @@ button {
 .visible {
     display: block;
 }
+
+#play-again:hover {
+    background-color: brown;
+}
